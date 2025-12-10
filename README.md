@@ -27,10 +27,11 @@
 <div style="background-color:#fff0f7; padding: 15px; border-radius: 12px;">
 
 ### 💻 Programming  
-- ⭐ <span style="color:#ff4f9a;">C#</span>
+- ⭐ ![C#](https://img.shields.io/badge/C%23-%23ff69b4.svg?style=for-the-badge)
 
 ### 🎨 Design  
-- ⭐ <span style="color:#ff78b4;">Canva</span> (ทำสไลด์, อินโฟกราฟิก, โปสเตอร์, งานนำเสนอ)
+- ⭐ ![Canva](https://img.shields.io/badge/Canva-%23ff8acb.svg?style=for-the-badge)
+ (ทำสไลด์, อินโฟกราฟิก, โปสเตอร์, งานนำเสนอ)
 
 ### 🧾 General Work ꔛ˚  
 - 💖 Microsoft Word  
