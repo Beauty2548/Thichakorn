@@ -34,12 +34,6 @@ Thichakorn
 
 ---
 
-##  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thichakorn&show_icons=true&theme=rose_pine" />
-</p>
-
----
 
 ## ﹆.🎧⁾⁾  Thank you 🩷
 <p align="center">
