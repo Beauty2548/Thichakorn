@@ -36,8 +36,7 @@
 ### 🧾 General Work ꔛ˚  
 - 💖 ![Word](https://img.shields.io/badge/Microsoft%20Word-%23ff8acb.svg?style=for-the-badge&logo=microsoftword&logoColor=white) 
 - 💖![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-%23ff69b4.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-- 💖 ![Document](https://img.shields.io/badge/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B-%23ff5fa8.svg?style=for-the-badge)
- 🧾ꔛ˚
+- 💖 ![Document](https://img.shields.io/badge/เอกสารทั่วไป-%23ff5fa8.svg?style=flat-square)🧾ꔛ˚
 
 </div>
 
