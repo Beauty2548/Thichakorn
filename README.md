@@ -34,9 +34,9 @@
  (ทำสไลด์, อินโฟกราฟิก, โปสเตอร์, งานนำเสนอ)
 
 ### 🧾 General Work ꔛ˚  
-- 💖 Microsoft Word  
-- 💖 Microsoft PowerPoint  
-- 💖 งานเอกสารทั่วไป 🧾ꔛ˚
+- 💖 ![Word](https://img.shields.io/badge/Microsoft%20Word-%23ff8acb.svg?style=for-the-badge&logo=microsoftword&logoColor=white) 
+- 💖![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-%23ff69b4.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+- 💖 ![Document](https://img.shields.io/badge/งานเอกสารทั่วไป-%23ff5fa8.svg?style=for-the-badge 🧾ꔛ˚
 
 </div>
 
