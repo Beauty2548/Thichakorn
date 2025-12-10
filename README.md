@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to Thichakorn's GitHub ✨</h1>
+<h1 align="center"> ·͜·♡🍒 Welcome to Thichakorn's GitHub 〣🎧🎄</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8604cbb7-e01b-4321-b730-68aa44cd5ef1"
