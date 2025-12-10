@@ -7,41 +7,41 @@
 </p>
 
 <p align="center">
-  <b style="font-size: 20px;">🌸 น่ารัก · ใส่ใจงาน · ทำงานเรียบร้อย 🌸</b>
+  <b style="font-size: 20px;">🌸 รักปีโป้มากกกกกก  🌸</b>
 </p>
 
 ---
 
 ## 💗 About Me
-สวัสดีค่ะ! ฉันคือ **Thichakorn**  
+Thichakorn
 ชอบงานด้านการเขียนโปรแกรม และงานออกแบบสื่อสวย ๆ  
-สไตล์งานของฉันจะเป็นโทน **พาสเทลหวาน ๆ น่ารักแต่ยังดูมืออาชีพ**
+สไตล์งานของฉันจะเป็นโทนน่ารักๆ
 
 ---
 
 ## 🎀 Skills
 
 ### 💻 Programming
-- ⭐ C# (Basic – Intermediate)
+- ⭐ C# 
 
 ### 🎨 Design
 - ⭐ Canva (ทำสไลด์, อินโฟกราฟิก, โปสเตอร์, งานนำเสนอ)
 
-### 🧾 General Work
-- ⭐ Microsoft Word  
-- ⭐ Microsoft PowerPoint  
-- ⭐ งานเอกสารทั่วไป  
+### 🧾 General Work ꔛ˚
+- 💖 Microsoft Word  
+- 💖 Microsoft PowerPoint  
+- 💖 งานเอกสารทั่วไป🧾ꔛ˚
 
 ---
 
-## 🌸 My Stats
+##  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thichakorn&show_icons=true&theme=rose_pine" />
 </p>
 
 ---
 
-## 🎀 Thank you for visiting!
+## ﹆.🎧⁾⁾  Thank you 🩷
 <p align="center">
   <b>💗 Have a lovely day! 💗</b>
 </p>
