@@ -1,4 +1,4 @@
-<h1 align="center"> ·͜·♡🍒 Welcome to Thichakorn's GitHub 〣🎧🎄</h1>
+<h1 align="center" style="color:#ff7db7;"> ·͜·♡🍒 Welcome to Thichakorn's GitHub 〣🎧🎄</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8604cbb7-e01b-4321-b730-68aa44cd5ef1"
@@ -7,32 +7,45 @@
 </p>
 
 <p align="center">
-  <b style="font-size: 20px;">🌸 รักปีโป้มากกกกกก  🌸</b>
+  <b style="font-size: 22px; color:#ff6fa4;">🌸 รักปีโป้มากกกกกก 🌸</b>
 </p>
 
 ---
 
-## About Me 💻. ˚◞♡🧸💭
-Thichakorn
-ชอบงานด้านการเขียนโปรแกรม และงานออกแบบสื่อสวย ๆ  🍎࿐ ˚.
-สไตล์งานของฉันจะเป็นโทนน่ารักๆ ˚ ༘ 🩰◞ 
+<div style="background-color:#ffe6f2; padding: 15px; border-radius: 12px;">
+
+## 💻. ˚◞♡🧸💭 About Me  
+<b style="color:#ff5ea2;">Thichakorn</b>  
+ชอบงานด้านการเขียนโปรแกรม และงานออกแบบสื่อสวย ๆ 🍎࿐ ˚.  
+สไตล์งานของฉันจะเป็นโทนน่ารักๆ ˚ ༘ 🩰◞
+
+</div>
 
 ---
 
-## ﹆.🎧⁾⁾ Skills 
+## ﹆.🎧⁾⁾ Skills  
+<div style="background-color:#fff0f7; padding: 15px; border-radius: 12px;">
 
-### 💻 Programming
-- ⭐ C# 
+### 💻 Programming  
+- ⭐ <span style="color:#ff4f9a;">C#</span>
 
-### 🎨 Design
-- ⭐ Canva (ทำสไลด์, อินโฟกราฟิก, โปสเตอร์, งานนำเสนอ)
+### 🎨 Design  
+- ⭐ <span style="color:#ff78b4;">Canva</span> (ทำสไลด์, อินโฟกราฟิก, โปสเตอร์, งานนำเสนอ)
 
-### 🧾 General Work ꔛ˚
+### 🧾 General Work ꔛ˚  
 - 💖 Microsoft Word  
 - 💖 Microsoft PowerPoint  
-- 💖 งานเอกสารทั่วไป🧾ꔛ˚
+- 💖 งานเอกสารทั่วไป 🧾ꔛ˚
+
+</div>
 
 ---
+
+<p align="center">
+  <b style="color:#ff5fa8; font-size:20px;">﹆.🎧⁾⁾  Thank you 🩷</b><br>
+  <span style="color:#ff89c8;">💗 PIPO 💗</span>
+</p>
+
 
 
 ## ﹆.🎧⁾⁾  Thank you 🩷
