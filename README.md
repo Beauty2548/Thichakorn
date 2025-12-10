@@ -1,50 +1,47 @@
-<!-- Banner -->
+<h1 align="center">✨ Welcome to Thichakorn's GitHub ✨</h1>
+
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/ffcce6/ffffff?text=Hi+I'm+Thichakorn+💗" alt="banner">
+  <img src="https://github.com/user-attachments/assets/8604cbb7-e01b-4321-b730-68aa44cd5ef1"
+       width="180"
+       style="border-radius: 50%; border: 4px solid #ffb3d9;" />
 </p>
 
-<h1 align="center">✨ Welcome to my GitHub Profile ✨</h1>
-
 <p align="center">
-  <b>น่ารัก + มืออาชีพ • โทนชมพูพาสเทล • พัฒนาอย่างก้าวหน้า</b>
-</p>
-
----
-
-## 🌸 About Me  
-สวัสดีค่ะ ฉันชื่อ **Thichakorn** 💕  
-สนใจงานด้านเทคโนโลยี การออกแบบ และการพัฒนาทักษะใหม่ ๆ อยู่เสมอ  
-ชอบงานโทนหวานน่ารักแต่ยังดูเรียบร้อยแบบมืออาชีพค่ะ 🩷✨
-
----
-
-## 🛠 Skills  
-### 💻 ด้านเขียนโปรแกรม  
-- C#
-
-### 🎨 ด้านงานออกแบบ  
-- Canva
-
-### 📚 ด้านการทำงานทั่วไป  
-- Microsoft Word  
-- PowerPoint  
-
----
-
-## 🌷 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thichakorn&show_icons=true&theme=rose_pine" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thichakorn&layout=compact&theme=rose_pine" height="160">
+  <b style="font-size: 20px;">🌸 น่ารัก · ใส่ใจงาน · ทำงานเรียบร้อย 🌸</b>
 </p>
 
 ---
 
-## 🌼 Theme & Style  
-โทนประจำโปรไฟล์: **ชมพูเข้ม • ชมพูอ่อน • ขาว** 🎀  
-ลุคน่ารักแต่ยังคงความสุภาพ เหมาะกับงานสาย IT และงานออกแบบ
+## 💗 About Me
+สวัสดีค่ะ! ฉันคือ **Thichakorn**  
+ชอบงานด้านการเขียนโปรแกรม และงานออกแบบสื่อสวย ๆ  
+สไตล์งานของฉันจะเป็นโทน **พาสเทลหวาน ๆ น่ารักแต่ยังดูมืออาชีพ**
 
 ---
 
+## 🎀 Skills
+
+### 💻 Programming
+- ⭐ C# (Basic – Intermediate)
+
+### 🎨 Design
+- ⭐ Canva (ทำสไลด์, อินโฟกราฟิก, โปสเตอร์, งานนำเสนอ)
+
+### 🧾 General Work
+- ⭐ Microsoft Word  
+- ⭐ Microsoft PowerPoint  
+- ⭐ งานเอกสารทั่วไป  
+
+---
+
+## 🌸 My Stats
 <p align="center">
-  ☁️ 🌸 ขอบคุณที่เข้ามาเยี่ยมชม GitHub ของฉันนะคะ 🌸 ☁️
+  <img src="https://github-readme-stats.vercel.app/api?username=Thichakorn&show_icons=true&theme=rose_pine" />
+</p>
+
+---
+
+## 🎀 Thank you for visiting!
+<p align="center">
+  <b>💗 Have a lovely day! 💗</b>
 </p>
