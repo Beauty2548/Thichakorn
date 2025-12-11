@@ -1,4 +1,7 @@
-<h1 align="center" style="color:#ff7db7;"> ·͜·♡🍒 Welcome to Thichakorn's GitHub 〣🎧🎄</h1>
+<h1 align="center">
+  <font color="#ff7db7">·͜·♡🍒 Welcome to Thichakorn's GitHub 〣🎧🎄</font>
+</h1>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8604cbb7-e01b-4321-b730-68aa44cd5ef1"
@@ -14,11 +17,10 @@
 
 <div style="background-color:#ffe6f2; padding: 15px; border-radius: 12px;">
 
-> 💗 **About Me**
-> 
-> **Thichakorn**
-> ชอบงานด้านการเขียนโปรแกรม และงานออกแบบสื่อสวย ๆ 🍎࿐ ˚.
-> สไตล์งานของฉันจะเป็นโทนน่ารักๆ ˚ ༘ 🩰◞
+## 💻 About Me ˚◞♡🧸💭
+<b style="color:#ff5ea2;">Thichakorn</b>  
+ชอบงานด้านการเขียนโปรแกรม และงานออกแบบสื่อสวย ๆ 🍎࿐ ˚.  
+สไตล์งานของฉันจะเป็นโทนน่ารักๆ ˚ ༘ 🩰◞
 
 </div>
 
