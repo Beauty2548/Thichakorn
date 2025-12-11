@@ -1,6 +1,4 @@
-<h1 align="center">
-  <font color="#ff7db7">·͜·♡🍒 Welcome to Thichakorn's GitHub 〣🎧🎄</font>
-</h1>
+<h1 align="center" style="color:#ff7db7;"> ·͜·♡🍒 Welcome to Thichakorn's GitHub 〣🎧🎄</h1>
 
 
 <p align="center">
